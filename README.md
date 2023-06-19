@@ -1,3 +1,4 @@
+![QQ图片20230619154935](https://github.com/plaidmrdeer/AdminTools/assets/98594477/e981bfd9-9e4d-41c2-b03e-dc08a8a6220b)
 # ✨AdminTools✨
 👍Make it easier for you to manage servers.
 ## ✨Plugin Introduction✨
