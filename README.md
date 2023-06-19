@@ -28,3 +28,17 @@ As the name suggests, "AdminTools" is a plugin specifically designed to provide 
   * admintools.command.pro:
     * description: The permission to use the command 'pro'.
     * default: op
+## ✨Configuration file✨
+  * config.yml:
+    ```yaml
+    #The plugin has three built-in languages: Chinese, English, and German.
+    #If your language is not available, you can customize the language:
+    #  1. Simply copy one of the built-in language files.
+    #  2. Rename its filename to the name you want.
+    #  3. Change the content in the file to your language.
+    #  4. Just change the 'language' option in the 'config.yml' to the name of your language file.
+    language: english
+    ```
+## ✨Plugin Video✨
+https://github.com/plaidmrdeer/AdminTools/assets/98594477/e144b3c2-e0e0-401a-9e4a-4bb50e2926f7
+
