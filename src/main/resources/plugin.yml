@@ -1,0 +1,36 @@
+name: AdminTools
+version: '${version}'
+main: com.plaidmrdeer.at.AdminTools
+api-version: 1.13
+author: PlaidMrdeer
+description: Make it easier for you to manage servers.
+
+commands:
+  invisible:
+    description: Players who use this command will become invisible, completely disappearing from the clients of other players.
+
+  inventory:
+    description: View the inventory of other players.
+
+  atreload:
+    description: The command to reload the configuration file.
+
+  pro:
+    description: Prohibit all actions of players.
+
+permissions:
+  admintools.command.invisible:
+    description: The permission to use the command 'invisible'.
+    default: op
+
+  admintools.command.inventory:
+    description: The permission to use the command 'inventory'.
+    default: op
+
+  admintools.command.atreload:
+    description: The permission to use the command 'atreload'.
+    default: op
+
+  admintools.command.pro:
+    description: The permission to use the command 'pro'.
+    default: op

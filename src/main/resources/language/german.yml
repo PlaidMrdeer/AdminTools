@@ -1,0 +1,14 @@
+no_permission: '&cDu hast keine Berechtigung!'
+
+command_error: '&cFehlerhafter Befehl!'
+
+command_succeed: '&aDer Befehl wurde erfolgreich ausgeführt!'
+
+reload_complete: '&6[&2AdminTools&6] &aNeu laden abgeschlossen.'
+
+cannot_found_player: '&cDieser Spieler konnte nicht gefunden werden!'
+
+invisible: '&aDu bist unsichtbar!'
+
+player_inventory: '&c%player%&d’s Inventar'
+player_end_inventory: '&dEndkisteninventar von &c%player%'

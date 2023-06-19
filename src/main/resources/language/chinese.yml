@@ -1,0 +1,14 @@
+no_permission: '&c你没有权限！'
+
+command_error: '&c命令错误！'
+
+command_succeed: '&a指令执行成功！'
+
+reload_complete: '&6[&2AdminTools&6] &a重新加载完成。'
+
+cannot_found_player: '&c找不到此玩家！'
+
+invisible: '&a你正在隐身！'
+
+player_inventory: '&c%player% &d的物品栏'
+player_end_inventory: '&c%player% &d的末影箱物品栏'

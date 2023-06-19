@@ -1,0 +1,7 @@
+#The plugin has three built-in languages: Chinese, English, and German.
+#If your language is not available, you can customize the language:
+#  1. Simply copy one of the built-in language files.
+#  2. Rename its filename to the name you want.
+#  3. Change the content in the file to your language.
+#  4. Just change the 'language' option in the 'config.yml' to the name of your language file.
+language: english

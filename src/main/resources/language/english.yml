@@ -1,0 +1,14 @@
+no_permission: '&cYou do not have permission!'
+
+command_error: '&cCommand error!'
+
+command_succeed: '&The command executed successfully!'
+
+reload_complete: '&6[&2AdminTools&6] &aReload complete.'
+
+cannot_found_player: '&cThis player cannot be found!'
+
+invisible: '&aYou are invisible!'
+
+player_inventory: '&dThe inventory of &c%player%'
+player_end_inventory: '&dThe Ender Chest Inventory of &c%player%"'
